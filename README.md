@@ -22,6 +22,14 @@ This repository contains the source I received directly from him, with permissio
 
 Other recreations or copies claiming to be the original should not be confused with this release.
 
+## Proof of Original Purchase
+
+The screenshot below shows baikzz sending me the original GUI directly.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flytrap-dev/assu-perm-gui/main/Screenshot%202026-11-05%20104446.png" width="650" alt="Conversation with baikzz regarding the original GUI" />
+</p>
+
 ## Security Notice
 
 There have been multiple AI-generated recreations of this interface circulating.
