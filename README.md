@@ -45,6 +45,7 @@ There have been multiple AI-generated recreations of this interface circulating.
 **Release / repository:** Flytrap
 
 All credit for the original GUI goes to baikzz.
+Baikzz server: https://discord.gg/bNZQVGW4fc
 
 ---
 
