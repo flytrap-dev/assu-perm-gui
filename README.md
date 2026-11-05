@@ -29,7 +29,15 @@ The screenshot below shows baikzz sending me the original GUI directly.
 <p align="center">
   <img src="https://raw.githubusercontent.com/flytrap-dev/assu-perm-gui/main/Screenshot%202026-11-05%20104446.png" width="650" alt="Conversation with baikzz regarding the original GUI" />
 </p>
+## Preview
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ktwwTB9-4uM">
+    <img src="https://img.youtube.com/vi/ktwwTB9-4uM/maxresdefault.jpg" width="700" alt="Watch GUI preview"/>
+  </a>
+  <br>
+  <sub>Click to watch the preview</sub>
+</p>
 ## Security Notice
 
 There have been multiple AI-generated recreations of this interface circulating.
